@@ -33,3 +33,4 @@ resource-management/model-ml/venv/
 # Date mari (nu le urca în git)
 archive/
 resource-management/model-ml/data/*.csv
+resource-management/model-ml/no_show_model.pkl
